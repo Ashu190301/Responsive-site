@@ -1,11 +1,11 @@
 # React-website-smooth-scroll
 
+#### Live view: https://ashu-responsive-smooth-site.netlify.app/
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e6154af1-dab3-488a-bfb2-7db3ead9d5cd/deploy-status)](https://app.netlify.com/sites/ashu-responsive-smooth-site/deploys)
 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/e6154af1-dab3-488a-bfb2-7db3ead9d5cd/deploy-status)](https://app.netlify.com/sites/ashu-responsive-smooth-site/deploys)
 
 ## Available Scripts
 
